@@ -63,10 +63,5 @@ I’m currently taking exams, so I just pushed the latest local version I’ve b
 
 ```
 
----
 
-Let me know if you'd like to:
-- Add usage examples
-- Include supported commands or flags
-- Generate a logo or badge for the project
 ```
