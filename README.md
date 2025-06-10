@@ -61,7 +61,3 @@ This project is still under active development. Apologies for the short document
 
 I’m currently taking exams, so I just pushed the latest local version I’ve been working on since last week. More improvements coming soon!
 
-```
-
-
-```
