@@ -3,7 +3,13 @@
 # GPM (Go Package Manager)
 
 GPM is a lightweight Go package manager that simplifies managing dependencies and packages in your Go projects.
+## 🙏 Note
 
+This project is still under active development. Apologies for the short documentation — more features and docs will be added soon.
+
+I’m currently taking exams, so I just pushed the latest local version I’ve been working on since last week. More improvements coming soon!
+
+I just commit it right now cuz I saved it  in the local 
 ---
 
 ## 🚀 Installation
@@ -55,9 +61,5 @@ Feel free to fork and contribute! Pull requests are welcome.
 
 ---
 
-## 🙏 Note
 
-This project is still under active development. Apologies for the short documentation — more features and docs will be added soon.
-
-I’m currently taking exams, so I just pushed the latest local version I’ve been working on since last week. More improvements coming soon!
 
