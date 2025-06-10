@@ -16,8 +16,8 @@ I just commit it right now cuz I saved it  in the local
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/SwanHtetAungPhyo/GPM.git
+   cd GPM
 ```
 
 2. **Build the binary**:
